@@ -4,5 +4,5 @@ I usually use excel to process lab data, but wanted to try using Python to pract
 I've added detailed comments throughtout to take you through my thought process, hopefully inspiring you to try switching from excel too!
 
 The purpose of this lab was to examine visoelastic materials and how they differ from elastic materials under constant strain.
-Goal: process the data and use ML to determine whether the material is viscoelastic or not.
+Goal: process the data to determine whether the material is viscoelastic or not.
 Still a work in progress.
