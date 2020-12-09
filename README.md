@@ -12,7 +12,6 @@ Still a work in progress.
 I reccomend downloading Anaconda and creating a virtual environment before running the tool.
 * [Install Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
 * [Set up environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-
 <br>  `conda create -n <envName> python`
 <br>  `conda activate <envName>`
 <br>  `python -m pip install`
